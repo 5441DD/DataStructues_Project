@@ -1,0 +1,5 @@
+hak, level1, 25
+hak, level2, 20
+hak, level2, 15
+hak, level2, 30
+hak, level1, -5
